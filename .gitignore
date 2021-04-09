@@ -1,5 +1,5 @@
 # Operating System Files
-
+.classpath
 *.DS_Store
 Thumbs.db
 *.sw?
